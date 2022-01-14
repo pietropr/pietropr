@@ -1,8 +1,8 @@
 ## Olá! Meu Nome é Pietro Pinton
  <div>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pietropr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietropr&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pietropr&show_icons=true&theme=react&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietropr&layout=compact&langs_count=7&theme=react"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pietro-PHP" height="30" width="40" src="https://www.vectorlogo.zone/logos/php/php-icon.svg">
@@ -16,7 +16,7 @@
   <img align="center" alt="Pietro-Python" height="30" width="40" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg">
    <img align="center" alt="Pietro-Firestore" height="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
     <img align="center" alt="Pietro-Node" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-     <img align="center" alt="Pietro-WP" height="30" width="40" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg">
+     <img align="center" alt="Pietro-WP" height="30" width="35" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg">
 
 
 
